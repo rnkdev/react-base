@@ -14,3 +14,9 @@ Compile
 ```
 npm run compile
 ```
+
+Start Dev Server
+----
+```
+npm start
+```
